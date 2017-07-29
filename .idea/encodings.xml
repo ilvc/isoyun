@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-novel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-spider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yunso-utils" charset="UTF-8" />
+  </component>
+</project>

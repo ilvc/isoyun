@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="me.ilvc.yunso.novel.dao.IpDescDao">
+  <resultMap id="BaseResultMap" type="me.ilvc.yunso.novel.model.IpDesc">
+    <id column="ip_id" jdbcType="INTEGER" property="ipId" />
+    <result column="country" jdbcType="VARCHAR" property="country" />
+    <result column="country_id" jdbcType="VARCHAR" property="countryId" />
+    <result column="area" jdbcType="VARCHAR" property="area" />
+    <result column="area_id" jdbcType="VARCHAR" property="areaId" />
+    <result column="region" jdbcType="VARCHAR" property="region" />
+    <result column="region_id" jdbcType="VARCHAR" property="regionId" />
+    <result column="city" jdbcType="VARCHAR" property="city" />
+    <result column="city_id" jdbcType="VARCHAR" property="cityId" />
+    <result column="county" jdbcType="VARCHAR" property="county" />
+    <result column="county_id" jdbcType="VARCHAR" property="countyId" />
+    <result column="isp" jdbcType="VARCHAR" property="isp" />
+    <result column="isp_id" jdbcType="VARCHAR" property="ispId" />
+    <result column="ip" jdbcType="VARCHAR" property="ip" />
+    <result column="addTime" jdbcType="TIMESTAMP" property="addtime" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    ip_id, country, country_id, area, area_id, region, region_id, city, city_id, county, 
+    county_id, isp, isp_id, ip, addTime
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from ip_desc
+    where ip_id = #{ipId,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from ip_desc
+    where ip_id = #{ipId,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.IpDesc">
+    insert into ip_desc (ip_id, country, country_id, 
+      area, area_id, region, 
+      region_id, city, city_id, 
+      county, county_id, isp, 
+      isp_id, ip, addTime
+      )
+    values (#{ipId,jdbcType=INTEGER}, #{country,jdbcType=VARCHAR}, #{countryId,jdbcType=VARCHAR}, 
+      #{area,jdbcType=VARCHAR}, #{areaId,jdbcType=VARCHAR}, #{region,jdbcType=VARCHAR}, 
+      #{regionId,jdbcType=VARCHAR}, #{city,jdbcType=VARCHAR}, #{cityId,jdbcType=VARCHAR}, 
+      #{county,jdbcType=VARCHAR}, #{countyId,jdbcType=VARCHAR}, #{isp,jdbcType=VARCHAR}, 
+      #{ispId,jdbcType=VARCHAR}, #{ip,jdbcType=VARCHAR}, #{addtime,jdbcType=TIMESTAMP}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.IpDesc">
+    insert into ip_desc
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="ipId != null">
+        ip_id,
+      </if>
+      <if test="country != null">
+        country,
+      </if>
+      <if test="countryId != null">
+        country_id,
+      </if>
+      <if test="area != null">
+        area,
+      </if>
+      <if test="areaId != null">
+        area_id,
+      </if>
+      <if test="region != null">
+        region,
+      </if>
+      <if test="regionId != null">
+        region_id,
+      </if>
+      <if test="city != null">
+        city,
+      </if>
+      <if test="cityId != null">
+        city_id,
+      </if>
+      <if test="county != null">
+        county,
+      </if>
+      <if test="countyId != null">
+        county_id,
+      </if>
+      <if test="isp != null">
+        isp,
+      </if>
+      <if test="ispId != null">
+        isp_id,
+      </if>
+      <if test="ip != null">
+        ip,
+      </if>
+      <if test="addtime != null">
+        addTime,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="ipId != null">
+        #{ipId,jdbcType=INTEGER},
+      </if>
+      <if test="country != null">
+        #{country,jdbcType=VARCHAR},
+      </if>
+      <if test="countryId != null">
+        #{countryId,jdbcType=VARCHAR},
+      </if>
+      <if test="area != null">
+        #{area,jdbcType=VARCHAR},
+      </if>
+      <if test="areaId != null">
+        #{areaId,jdbcType=VARCHAR},
+      </if>
+      <if test="region != null">
+        #{region,jdbcType=VARCHAR},
+      </if>
+      <if test="regionId != null">
+        #{regionId,jdbcType=VARCHAR},
+      </if>
+      <if test="city != null">
+        #{city,jdbcType=VARCHAR},
+      </if>
+      <if test="cityId != null">
+        #{cityId,jdbcType=VARCHAR},
+      </if>
+      <if test="county != null">
+        #{county,jdbcType=VARCHAR},
+      </if>
+      <if test="countyId != null">
+        #{countyId,jdbcType=VARCHAR},
+      </if>
+      <if test="isp != null">
+        #{isp,jdbcType=VARCHAR},
+      </if>
+      <if test="ispId != null">
+        #{ispId,jdbcType=VARCHAR},
+      </if>
+      <if test="ip != null">
+        #{ip,jdbcType=VARCHAR},
+      </if>
+      <if test="addtime != null">
+        #{addtime,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="me.ilvc.yunso.novel.model.IpDesc">
+    update ip_desc
+    <set>
+      <if test="country != null">
+        country = #{country,jdbcType=VARCHAR},
+      </if>
+      <if test="countryId != null">
+        country_id = #{countryId,jdbcType=VARCHAR},
+      </if>
+      <if test="area != null">
+        area = #{area,jdbcType=VARCHAR},
+      </if>
+      <if test="areaId != null">
+        area_id = #{areaId,jdbcType=VARCHAR},
+      </if>
+      <if test="region != null">
+        region = #{region,jdbcType=VARCHAR},
+      </if>
+      <if test="regionId != null">
+        region_id = #{regionId,jdbcType=VARCHAR},
+      </if>
+      <if test="city != null">
+        city = #{city,jdbcType=VARCHAR},
+      </if>
+      <if test="cityId != null">
+        city_id = #{cityId,jdbcType=VARCHAR},
+      </if>
+      <if test="county != null">
+        county = #{county,jdbcType=VARCHAR},
+      </if>
+      <if test="countyId != null">
+        county_id = #{countyId,jdbcType=VARCHAR},
+      </if>
+      <if test="isp != null">
+        isp = #{isp,jdbcType=VARCHAR},
+      </if>
+      <if test="ispId != null">
+        isp_id = #{ispId,jdbcType=VARCHAR},
+      </if>
+      <if test="ip != null">
+        ip = #{ip,jdbcType=VARCHAR},
+      </if>
+      <if test="addtime != null">
+        addTime = #{addtime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where ip_id = #{ipId,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="me.ilvc.yunso.novel.model.IpDesc">
+    update ip_desc
+    set country = #{country,jdbcType=VARCHAR},
+      country_id = #{countryId,jdbcType=VARCHAR},
+      area = #{area,jdbcType=VARCHAR},
+      area_id = #{areaId,jdbcType=VARCHAR},
+      region = #{region,jdbcType=VARCHAR},
+      region_id = #{regionId,jdbcType=VARCHAR},
+      city = #{city,jdbcType=VARCHAR},
+      city_id = #{cityId,jdbcType=VARCHAR},
+      county = #{county,jdbcType=VARCHAR},
+      county_id = #{countyId,jdbcType=VARCHAR},
+      isp = #{isp,jdbcType=VARCHAR},
+      isp_id = #{ispId,jdbcType=VARCHAR},
+      ip = #{ip,jdbcType=VARCHAR},
+      addTime = #{addtime,jdbcType=TIMESTAMP}
+    where ip_id = #{ipId,jdbcType=INTEGER}
+  </update>
+</mapper>

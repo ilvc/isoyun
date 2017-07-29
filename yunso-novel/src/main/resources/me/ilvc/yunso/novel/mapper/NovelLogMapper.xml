@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="me.ilvc.yunso.novel.dao.NovelLogDao">
+  <resultMap id="BaseResultMap" type="me.ilvc.yunso.novel.model.NovelLog">
+    <id column="log_id" jdbcType="INTEGER" property="logId" />
+    <result column="url" jdbcType="VARCHAR" property="url" />
+    <result column="uid" jdbcType="INTEGER" property="uid" />
+    <result column="addtime" jdbcType="TIMESTAMP" property="addtime" />
+    <result column="visitorIp" jdbcType="VARCHAR" property="visitorip" />
+    <result column="describe" jdbcType="VARCHAR" property="describe" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    log_id, url, uid, addtime, visitorIp, describe
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from novel_log
+    where log_id = #{logId,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from novel_log
+    where log_id = #{logId,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.NovelLog">
+    insert into novel_log (log_id, url, uid, 
+      addtime, visitorIp, describe
+      )
+    values (#{logId,jdbcType=INTEGER}, #{url,jdbcType=VARCHAR}, #{uid,jdbcType=INTEGER}, 
+      #{addtime,jdbcType=TIMESTAMP}, #{visitorip,jdbcType=VARCHAR}, #{describe,jdbcType=VARCHAR}
+      )
+  </insert>
+  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.NovelLog">
+    insert into novel_log
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="logId != null">
+        log_id,
+      </if>
+      <if test="url != null">
+        url,
+      </if>
+      <if test="uid != null">
+        uid,
+      </if>
+      <if test="addtime != null">
+        addtime,
+      </if>
+      <if test="visitorip != null">
+        visitorIp,
+      </if>
+      <if test="describe != null">
+        describe,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="logId != null">
+        #{logId,jdbcType=INTEGER},
+      </if>
+      <if test="url != null">
+        #{url,jdbcType=VARCHAR},
+      </if>
+      <if test="uid != null">
+        #{uid,jdbcType=INTEGER},
+      </if>
+      <if test="addtime != null">
+        #{addtime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="visitorip != null">
+        #{visitorip,jdbcType=VARCHAR},
+      </if>
+      <if test="describe != null">
+        #{describe,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="me.ilvc.yunso.novel.model.NovelLog">
+    update novel_log
+    <set>
+      <if test="url != null">
+        url = #{url,jdbcType=VARCHAR},
+      </if>
+      <if test="uid != null">
+        uid = #{uid,jdbcType=INTEGER},
+      </if>
+      <if test="addtime != null">
+        addtime = #{addtime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="visitorip != null">
+        visitorIp = #{visitorip,jdbcType=VARCHAR},
+      </if>
+      <if test="describe != null">
+        describe = #{describe,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where log_id = #{logId,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="me.ilvc.yunso.novel.model.NovelLog">
+    update novel_log
+    set url = #{url,jdbcType=VARCHAR},
+      uid = #{uid,jdbcType=INTEGER},
+      addtime = #{addtime,jdbcType=TIMESTAMP},
+      visitorIp = #{visitorip,jdbcType=VARCHAR},
+      describe = #{describe,jdbcType=VARCHAR}
+    where log_id = #{logId,jdbcType=INTEGER}
+  </update>
+</mapper>

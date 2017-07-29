@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="me.ilvc.yunso.novel.dao.NovelInfoDao">
+  <resultMap id="BaseResultMap" type="me.ilvc.yunso.novel.model.NovelInfo">
+    <id column="novel_id" jdbcType="INTEGER" property="novelId" />
+    <result column="novel_namme" jdbcType="VARCHAR" property="novelName" />
+    <result column="author" jdbcType="VARCHAR" property="author" />
+    <result column="category" jdbcType="VARCHAR" property="category" />
+    <result column="brief" jdbcType="VARCHAR" property="brief" />
+    <result column="state" jdbcType="VARCHAR" property="state" />
+    <result column="newUpdate" jdbcType="VARCHAR" property="newupdate" />
+    <result column="newChapter" jdbcType="VARCHAR" property="newchapter" />
+    <result column="addTime" jdbcType="TIMESTAMP" property="addtime" />
+    <result column="lastUpdate" jdbcType="TIMESTAMP" property="lastupdate" />
+    <result column="novelNum" jdbcType="VARCHAR" property="novelnum" />
+    <result column="newChapterUrl" jdbcType="VARCHAR" property="newchapterurl" />
+    <result column="novelImg" jdbcType="VARCHAR" property="novelimg" />
+    <result column="current_page_url" jdbcType="VARCHAR" property="currentPageUrl" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    novel_id, novel_namme, author, category, brief, state, newUpdate, newChapter, addTime, 
+    lastUpdate, novelNum, newChapterUrl, novelImg, current_page_url
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from novel_novelinfo
+    where novel_id = #{novelId,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from novel_novelinfo
+    where novel_id = #{novelId,jdbcType=INTEGER}
+  </delete>
+  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.NovelInfo">
+    insert into novel_novelinfo (novel_id, novel_namme, author, 
+      category, brief, state, 
+      newUpdate, newChapter, addTime, 
+      lastUpdate, novelNum, newChapterUrl, 
+      novelImg, current_page_url)
+    values (#{novelId,jdbcType=INTEGER}, #{novelName,jdbcType=VARCHAR}, #{author,jdbcType=VARCHAR},
+      #{category,jdbcType=VARCHAR}, #{brief,jdbcType=VARCHAR}, #{state,jdbcType=VARCHAR}, 
+      #{newupdate,jdbcType=VARCHAR}, #{newchapter,jdbcType=VARCHAR}, #{addtime,jdbcType=TIMESTAMP}, 
+      #{lastupdate,jdbcType=TIMESTAMP}, #{novelnum,jdbcType=VARCHAR}, #{newchapterurl,jdbcType=VARCHAR}, 
+      #{novelimg,jdbcType=VARCHAR}, #{currentPageUrl,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.NovelInfo">
+    insert into novel_novelinfo
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="novelId != null">
+        novel_id,
+      </if>
+      <if test="novelName != null">
+        novel_namme,
+      </if>
+      <if test="author != null">
+        author,
+      </if>
+      <if test="category != null">
+        category,
+      </if>
+      <if test="brief != null">
+        brief,
+      </if>
+      <if test="state != null">
+        state,
+      </if>
+      <if test="newupdate != null">
+        newUpdate,
+      </if>
+      <if test="newchapter != null">
+        newChapter,
+      </if>
+
+      <if test="lastupdate != null">
+        lastUpdate,
+      </if>
+      <if test="novelnum != null">
+        novelNum,
+      </if>
+      <if test="newchapterurl != null">
+        newChapterUrl,
+      </if>
+      <if test="novelimg != null">
+        novelImg,
+      </if>
+      <if test="currentPageUrl != null">
+        current_page_url,
+      </if>
+        addTime
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="novelId != null">
+        #{novelId,jdbcType=INTEGER},
+      </if>
+      <if test="novelName != null">
+        #{novelName,jdbcType=VARCHAR},
+      </if>
+      <if test="author != null">
+        #{author,jdbcType=VARCHAR},
+      </if>
+      <if test="category != null">
+        #{category,jdbcType=VARCHAR},
+      </if>
+      <if test="brief != null">
+        #{brief,jdbcType=VARCHAR},
+      </if>
+      <if test="state != null">
+        #{state,jdbcType=VARCHAR},
+      </if>
+      <if test="newupdate != null">
+        #{newupdate,jdbcType=VARCHAR},
+      </if>
+      <if test="newchapter != null">
+        #{newchapter,jdbcType=VARCHAR},
+      </if>
+
+
+      <if test="lastupdate != null">
+        #{lastupdate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="novelnum != null">
+        #{novelnum,jdbcType=VARCHAR},
+      </if>
+      <if test="newchapterurl != null">
+        #{newchapterurl,jdbcType=VARCHAR},
+      </if>
+      <if test="novelimg != null">
+        #{novelimg,jdbcType=VARCHAR},
+      </if>
+      <if test="currentPageUrl != null">
+        #{currentPageUrl,jdbcType=VARCHAR},
+      </if>
+      now()
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="me.ilvc.yunso.novel.model.NovelInfo">
+    update novel_novelinfo
+    <set>
+      <if test="novelName != null">
+        novel_namme = #{novelName,jdbcType=VARCHAR},
+      </if>
+      <if test="author != null">
+        author = #{author,jdbcType=VARCHAR},
+      </if>
+      <if test="category != null">
+        category = #{category,jdbcType=VARCHAR},
+      </if>
+      <if test="brief != null">
+        brief = #{brief,jdbcType=VARCHAR},
+      </if>
+      <if test="state != null">
+        state = #{state,jdbcType=VARCHAR},
+      </if>
+      <if test="newupdate != null">
+        newUpdate = #{newupdate,jdbcType=VARCHAR},
+      </if>
+      <if test="newchapter != null">
+        newChapter = #{newchapter,jdbcType=VARCHAR},
+      </if>
+      <if test="addtime != null">
+        addTime = #{addtime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="lastupdate != null">
+        lastUpdate = #{lastupdate,jdbcType=TIMESTAMP},
+      </if>
+      <if test="novelnum != null">
+        novelNum = #{novelnum,jdbcType=VARCHAR},
+      </if>
+      <if test="newchapterurl != null">
+        newChapterUrl = #{newchapterurl,jdbcType=VARCHAR},
+      </if>
+      <if test="novelimg != null">
+        novelImg = #{novelimg,jdbcType=VARCHAR},
+      </if>
+      <if test="currentPageUrl != null">
+        current_page_url = #{currentPageUrl,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where novel_id = #{novelId,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="me.ilvc.yunso.novel.model.NovelInfo">
+    update novel_novelinfo
+    set novel_namme = #{novelName,jdbcType=VARCHAR},
+      author = #{author,jdbcType=VARCHAR},
+      category = #{category,jdbcType=VARCHAR},
+      brief = #{brief,jdbcType=VARCHAR},
+      state = #{state,jdbcType=VARCHAR},
+      newUpdate = #{newupdate,jdbcType=VARCHAR},
+      newChapter = #{newchapter,jdbcType=VARCHAR},
+      addTime = #{addtime,jdbcType=TIMESTAMP},
+      lastUpdate = #{lastupdate,jdbcType=TIMESTAMP},
+      novelNum = #{novelnum,jdbcType=VARCHAR},
+      newChapterUrl = #{newchapterurl,jdbcType=VARCHAR},
+      novelImg = #{novelimg,jdbcType=VARCHAR},
+      current_page_url = #{currentPageUrl,jdbcType=VARCHAR}
+    where novel_id = #{novelId,jdbcType=INTEGER}
+  </update>
+
+  <select id="findAll" resultMap="BaseResultMap">
+    select <include refid="Base_Column_List" />
+    from novel_novelinfo
+  </select>
+  <resultMap id="novelChapters" type="me.ilvc.yunso.novel.model.NovelInfo">
+    <id column="novel_novel_id" jdbcType="INTEGER" property="novelId" />
+    <result column="novel_name" jdbcType="VARCHAR" property="novelName" />
+    <result column="novel_author" jdbcType="VARCHAR" property="author" />
+    <result column="novel_novelimg" jdbcType="VARCHAR" property="novelimg" />
+    <collection property="chapters" column="novel_novel_id" ofType="me.ilvc.yunso.novel.model.NovelChapter" javaType="ArrayList"  >
+      <id column="chapter_chaapter_id" javaType="INTEGER" property="chapterId"/>
+      <result column="chapter_chapterName" property="chaptername"/>
+      <result column="chapter_content" property="content"/>
+      <result column="chapter_chapterNum" property="chapternum"/>
+      <result column="chapter_novelName" property="novelname"/>
+      <result column="chapter_novelNum" property="novelnum"/>
+    </collection>
+  </resultMap>
+
+  <select id="findNovelAndChapters" resultMap="novelChapters" >
+      SELECT 
+  i.`author`  novel_author,i.`novel_id` novel_novel_id,i.`novelImg` novel_novelimg,i.`novel_namme` novel_name,c.`chapterName` chapter_chapterName,c.`chapter_id` chapter_chaapter_id,
+  c.`novelNum` chapter_novelNum,c.`content` chapter_content,c.`chapterNum` chapter_chapterNum,c.`novelName` chapter_novelName
+  FROM novel_novelinfo i,novel_novelchapter c
+  WHERE i.`novel_namme`=c.`novelName` AND i.`novel_id`=${novelId};
+
+  </select>
+</mapper>

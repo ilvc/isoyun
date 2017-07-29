@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="me.ilvc.yunso.novel.dao.NovelChapterDao">
+  <resultMap id="BaseResultMap" type="me.ilvc.yunso.novel.model.NovelChapter">
+    <id column="chapter_id" jdbcType="INTEGER" property="chapterId" />
+    <result column="novelName" jdbcType="VARCHAR" property="novelname" />
+    <result column="chapterName" jdbcType="VARCHAR" property="chaptername" />
+    <result column="chapterUrl" jdbcType="VARCHAR" property="chapterurl" />
+    <result column="novelNum" jdbcType="INTEGER" property="novelnum" />
+    <result column="chapterNum" jdbcType="INTEGER" property="chapternum" />
+    <result column="content" jdbcType="VARCHAR" property="content" />
+    <result column="addTime" jdbcType="TIMESTAMP" property="addtime" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    chapter_id, novelName, chapterName, chapterUrl, novelNum, chapterNum, content, addTime
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from novel_novelchapter
+    where chapter_id = #{chapterId,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from novel_novelchapter
+    where chapter_id = #{chapterId,jdbcType=INTEGER}
+  </delete>
+  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+    insert into novel_novelchapter (chapter_id, novelName, chapterName, 
+      chapterUrl, novelNum, chapterNum, 
+      content, addTime)
+    values (#{chapterId,jdbcType=INTEGER}, #{novelname,jdbcType=VARCHAR}, #{chaptername,jdbcType=VARCHAR}, 
+      #{chapterurl,jdbcType=VARCHAR}, #{novelnum,jdbcType=VARCHAR}, #{chapternum,jdbcType=INTEGER},
+      #{content,jdbcType=VARCHAR}, #{addtime,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+    insert into novel_novelchapter
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="chapterId != null">
+        chapter_id,
+      </if>
+      <if test="novelname != null">
+        novelName,
+      </if>
+      <if test="chaptername != null">
+        chapterName,
+      </if>
+      <if test="chapterurl != null">
+        chapterUrl,
+      </if>
+      <if test="novelnum != null">
+        novelNum,
+      </if>
+      <if test="chapternum != null">
+        chapterNum,
+      </if>
+      <if test="content != null">
+        content,
+      </if>
+        addTime
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="chapterId != null">
+        #{chapterId,jdbcType=INTEGER},
+      </if>
+      <if test="novelname != null">
+        #{novelname,jdbcType=VARCHAR},
+      </if>
+      <if test="chaptername != null">
+        #{chaptername,jdbcType=VARCHAR},
+      </if>
+      <if test="chapterurl != null">
+        #{chapterurl,jdbcType=VARCHAR},
+      </if>
+      <if test="novelnum != null">
+        #{novelnum,jdbcType=VARCHAR},
+      </if>
+      <if test="chapternum != null">
+        #{chapternum,jdbcType=INTEGER},
+      </if>
+      <if test="content != null">
+        #{content,jdbcType=VARCHAR},
+      </if>
+        now()
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+    update novel_novelchapter
+    <set>
+      <if test="novelname != null">
+        novelName = #{novelname,jdbcType=VARCHAR},
+      </if>
+      <if test="chaptername != null">
+        chapterName = #{chaptername,jdbcType=VARCHAR},
+      </if>
+      <if test="chapterurl != null">
+        chapterUrl = #{chapterurl,jdbcType=VARCHAR},
+      </if>
+      <if test="novelnum != null">
+        novelNum = #{novelnum,jdbcType=VARCHAR},
+      </if>
+      <if test="chapternum != null">
+        chapterNum = #{chapternum,jdbcType=INTEGER},
+      </if>
+      <if test="content != null">
+        content = #{content,jdbcType=VARCHAR},
+      </if>
+      <if test="addtime != null">
+        addTime = #{addtime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where chapter_id = #{chapterId,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+    update novel_novelchapter
+    set novelName = #{novelname,jdbcType=VARCHAR},
+      chapterName = #{chaptername,jdbcType=VARCHAR},
+      chapterUrl = #{chapterurl,jdbcType=VARCHAR},
+      novelNum = #{novelnum,jdbcType=VARCHAR},
+      chapterNum = #{chapternum,jdbcType=INTEGER},
+      content = #{content,jdbcType=VARCHAR},
+      addTime = #{addtime,jdbcType=TIMESTAMP}
+    where chapter_id = #{chapterId,jdbcType=INTEGER}
+  </update>
+</mapper>

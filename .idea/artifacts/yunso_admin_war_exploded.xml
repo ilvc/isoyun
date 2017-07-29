@@ -1,0 +1,127 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yunso-admin:war exploded">
+    <output-path>$PROJECT_DIR$/yunso-admin/target/yunso-admin</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yunso-admin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="yunso-novel-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="yunso-novel" />
+          </element>
+          <element id="archive" name="yunso-base-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="yunso-base" />
+          </element>
+          <element id="archive" name="yunso-utils-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="yunso-utils" />
+          </element>
+          <element id="archive" name="yunso-log-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="yunso-log" />
+          </element>
+          <element id="library" level="project" name="Maven: us.codecraft:webmagic-core:0.7.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: us.codecraft:xsoup:0.3.1" />
+          <element id="library" level="project" name="Maven: org.assertj:assertj-core:1.5.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+          <element id="library" level="project" name="Maven: com.jayway.jsonpath:json-path:0.8.1" />
+          <element id="library" level="project" name="Maven: net.minidev:json-smart:1.1.1" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.28" />
+          <element id="library" level="project" name="Maven: us.codecraft:webmagic-extension:0.7.2" />
+          <element id="library" level="project" name="Maven: org.apache.maven.plugins:maven-surefire-plugin:2.12.4" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-api:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven.surefire:surefire-booter:2.12.4" />
+          <element id="library" level="project" name="Maven: org.apache.maven.surefire:surefire-api:2.12.4" />
+          <element id="library" level="project" name="Maven: org.apache.maven.surefire:maven-surefire-common:2.12.4" />
+          <element id="library" level="project" name="Maven: org.apache.maven.shared:maven-common-artifact-filters:1.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:3.0.8" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-artifact:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-project:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-settings:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-profile:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-artifact-manager:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-registry:2.0.9" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-core:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-parameter-documenter:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven.reporting:maven-reporting-api:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven.wagon:wagon-provider-api:1.0-beta-2" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-repository-metadata:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-error-diagnostics:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-descriptor:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-monitor:2.0.9" />
+          <element id="library" level="project" name="Maven: classworlds:classworlds:1.1" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-toolchain:2.0.9" />
+          <element id="library" level="project" name="Maven: org.apache.maven.plugin-tools:maven-plugin-annotations:3.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: org.apache.maven.plugins:maven-resources-plugin:3.0.2" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-model:3.0" />
+          <element id="library" level="project" name="Maven: org.apache.maven.shared:maven-filtering:3.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.maven.shared:maven-shared-utils:3.0.0" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:2.0.1" />
+          <element id="library" level="project" name="Maven: org.sonatype.plexus:plexus-build-api:0.0.7" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-interpolation:1.24" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.3" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.5" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.0" />
+          <element id="library" level="project" name="Maven: com.qiniu:qiniu-java-sdk:7.2.0" />
+          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:3.3.1" />
+          <element id="library" level="project" name="Maven: com.squareup.okio:okio:1.8.0" />
+          <element id="library" level="project" name="Maven: com.qiniu:happy-dns-java:0.1.4" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.3.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.37" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.4" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.12" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.2.4" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.4" />
+          <element id="library" level="project" name="Maven: org.json:org.json:2.0" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.9" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.5" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.0" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-smartcn:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-highlighter:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-join:6.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-memory:6.2.1" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.3" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: com.belerweb:pinyin4j:2.5.0" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/yunso-admin/target/yunso-admin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="yunso-admin/web/Web" />
+    </root>
+  </artifact>
+</component>

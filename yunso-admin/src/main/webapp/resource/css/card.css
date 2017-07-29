@@ -1,0 +1,94 @@
+.card {
+    position: relative;
+    float: left;
+    margin: 0 5px;
+    margin-bottom: 10px;
+    background: #fff;
+    border: 1px solid #e7eaf1;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,37,55,.05);
+    box-sizing: border-box;
+    overflow:hidden;
+    width: 32%;
+
+}
+
+.TopstoryItem {
+    position: relative;
+    padding: 16px 20px;
+}
+.card-head{
+    color:#8590a6 ;
+    line-height: 1;
+    margin-bottom: 14px;
+    font-size: 15px;
+}
+.bio {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 4px 0;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 1.2;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-people{
+    display: inline-flex;
+
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.card-title{
+    overflow: hidden;
+}
+.ContentItem-title {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    color: #1e1e1e;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
+.card-content{
+    height: 105px;
+}
+.card-content-left {
+    position: relative;
+    width: 120px;
+    height: 150px;
+    margin-top: -2px;
+    margin-right: 18px;
+    margin-bottom: 4px;
+    overflow: hidden;
+    border-radius: 4px;
+    float: left;
+}
+
+/*.card-img{
+display: inline-flex;
+
+
+}*/
+.card-content-right{
+    margin-top: 9px;
+    margin-bottom: -5px;
+    overflow: hidden;
+    font-size: 15px;
+
+}
+.card-action{
+    clear: left;
+}
+.QuestionItem-dot {
+    margin: 0 5px;
+
+    font-weight: bold;
+}

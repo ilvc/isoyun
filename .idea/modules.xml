@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yunso.iml" filepath="$PROJECT_DIR$/yunso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-admin/yunso-admin.iml" filepath="$PROJECT_DIR$/yunso-admin/yunso-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-base/yunso-base.iml" filepath="$PROJECT_DIR$/yunso-base/yunso-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-log/yunso-log.iml" filepath="$PROJECT_DIR$/yunso-log/yunso-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-novel/yunso-novel.iml" filepath="$PROJECT_DIR$/yunso-novel/yunso-novel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-spider/yunso-spider.iml" filepath="$PROJECT_DIR$/yunso-spider/yunso-spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunso-utils/yunso-utils.iml" filepath="$PROJECT_DIR$/yunso-utils/yunso-utils.iml" />
+    </modules>
+  </component>
+</project>
