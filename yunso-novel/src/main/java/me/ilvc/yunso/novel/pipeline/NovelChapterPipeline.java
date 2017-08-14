@@ -27,25 +27,14 @@ public class NovelChapterPipeline implements Pipeline {
 		if ("novelInfo".equals(resultItems.get("type"))){
 			NovelInfo  novelInfo = resultItems.get("novelInfo");
 			novelInfoDao.insert(novelInfo);
-			if (novelInfoDao==null){
-				System.out.println("novelInfoDao==null");
-			}else{
-				System.out.println("novelInfoDao!=null");
-
-			}
 
 		}else if("novelChapter".equals(resultItems.get("type"))){
 
 			NovelChapter chapter = resultItems.get("chapter");
 			System.out.println(chapter);
 			System.out.println(novelChapterDao);
-			novelChapterDao.insert(chapter);
-			if (novelChapterDao==null){
-				System.out.println("novelChapterDao==null");
-			}else{
-				System.out.println("novelChapterDao!=null");
+			novelChapterDao.insertSelective(chapter);
 
-			}
 		}
 	}
 

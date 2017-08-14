@@ -42,7 +42,7 @@ public class NovelInfoService extends BaseService implements INovelInfoService{
     }
 
     public <T> List<T> findAll() {
-        return this.novelInfoDao.findAll();
+        return novelInfoDao.findAll();
     }
 
     public int size() {

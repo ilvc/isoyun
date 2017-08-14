@@ -26,7 +26,7 @@ public class IndexRouter {
     public ModelAndView yunsoIndex(){
         ModelAndView mav = new ModelAndView();
         mav.setViewName("admin/novel/nindex");
-        mav.addObject("novelInfo_all",(List<Object>)novelInfoService.findAll());
+        mav.addObject("novelInfo_all",novelInfoService.findAll());
         return mav;
     }
 }

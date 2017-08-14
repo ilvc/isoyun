@@ -153,10 +153,10 @@
                 alert($(document.body).height());   //浏览器时下窗口文档body的高度
                 alert($(document.body).outerHeight(true)); //浏览器时下窗口文档body的总高度 包括border padding margin*/
                 if($(window).width()<=1366){
-                    $(".card").css("width","49%")
+                    $(".card").css("width","48%")
                 }
                 if($(window).width()>1366){
-                    $(".card").css("width","31%")
+                    $(".card").css("width","30%")
                 }
 
             });

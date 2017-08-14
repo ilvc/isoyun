@@ -21,6 +21,12 @@
             <div class="layui-field-box">
                 <form class="layui-form" action="${pageContext.request.contextPath}/admin/c/novel/spider/start" method="post">
                     <div class="layui-form-item">
+                        <label class="layui-form-label">NDesc</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="ndesc" required  lay-verify="required" placeholder="操作描述" autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
                         <label class="layui-form-label">StartUrl</label>
                         <div class="layui-input-block">
                             <input type="text" name="startUrl" required  lay-verify="required" placeholder="请输入StartUrl" autocomplete="off" class="layui-input">
@@ -35,9 +41,9 @@
                     <div class="layui-form-item">
                         <label class="layui-form-label">ChaptetNum</label>
                         <div class="layui-input-inline">
-                            <input type="text" name="fochaptetNum"  placeholder="请输入ChaptetNum" autocomplete="off" class="layui-input">
+                            <input type="text" name="chapternum"  placeholder="请输入ChaptetNum" autocomplete="off" class="layui-input">
                         </div>
-                        <div class="layui-form-mid layui-word-aux">起始章节（一次抓取不完全时，可选）</div>
+                        <div class="layui-form-mid layui-word-aux">起始章节（抓取章节的标识，必选）</div>
                     </div>
 
                     <div class="layui-form-item">
@@ -62,7 +68,6 @@
                             </select>
                         </div>
                     </div>
-
 
                     <div class="layui-form-item">
                         <div class="layui-input-block">

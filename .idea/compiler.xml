@@ -14,17 +14,14 @@
         <module name="yunso-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="yunso" target="1.5" />
-      <module name="yunso-admin" target="1.5" />
-      <module name="yunso-base" target="1.5" />
-      <module name="yunso-log" target="1.5" />
-      <module name="yunso-novel" target="1.5" />
-      <module name="yunso-spider" target="1.5" />
-      <module name="yunso-utils" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="yunso" target="1.8" />
+      <module name="yunso-admin" target="1.8" />
+      <module name="yunso-base" target="1.8" />
+      <module name="yunso-log" target="1.8" />
+      <module name="yunso-novel" target="1.8" />
+      <module name="yunso-spider" target="1.8" />
+      <module name="yunso-utils" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>

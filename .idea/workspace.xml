@@ -1,7 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2900dd9b-bf8e-44c6-ac82-8225dd160f6c" name="Default" comment="" />
+    <list default="true" id="2900dd9b-bf8e-44c6-ac82-8225dd160f6c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/basic/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/basic/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/basic/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/images/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/github/assets/fonts/octicons-local.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/github/assets/fonts/octicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/github/assets/fonts/octicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/material/assets/fonts/icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/material/assets/fonts/icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/material/assets/fonts/icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/material/assets/fonts/icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/AdminRouter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelManager.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelindex.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/task.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/ad.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/ad.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/api.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/breadcrumb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/breadcrumb.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/colorize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/comment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/comment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/container.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dimmer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dimmer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dimmer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dimmer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dropdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/embed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/embed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/feed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/feed.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/flag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/flag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/form.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/header.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/item.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/item.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/label.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/label.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/loader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/loader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/message.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/modal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/modal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/nag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/nag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/nag.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/nag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/popup.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/progress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/progress.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/progress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rail.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rating.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rating.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/rating.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/reset.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/reveal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/search.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/segment.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/segment.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/shape.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/shape.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/shape.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sidebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sidebar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sidebar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/site.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/site.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/state.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/statistic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/statistic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/step.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/step.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/tab.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/tab.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/transition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/transition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/transition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/visibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/visit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/components/visit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/semantic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/semantic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/semantic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/semantic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/basic/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/default/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/github/assets/fonts/octicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/SemanticUI/themes/material/assets/fonts/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INOpInfoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/ISpiderService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NOpInfoService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/SpiderService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/model/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/model/Task.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NOpInfo.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/pom.xml" afterPath="$PROJECT_DIR$/yunso-admin/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java" afterPath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java" afterPath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java" afterPath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/SpiderRouter.java" afterPath="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/SpiderRouter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/chapter.jsp" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/chapter.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.jsp" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/AmazeUI/assets/js/amazeui.js" afterPath="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/AmazeUI/assets/js/amazeui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/src/test/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessorTest.java" afterPath="$PROJECT_DIR$/yunso-admin/src/test/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-admin/yunso-admin.iml" afterPath="$PROJECT_DIR$/yunso-admin/yunso-admin.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-base/pom.xml" afterPath="$PROJECT_DIR$/yunso-base/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-base/yunso-base.iml" afterPath="$PROJECT_DIR$/yunso-base/yunso-base.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-log/pom.xml" afterPath="$PROJECT_DIR$/yunso-log/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-log/yunso-log.iml" afterPath="$PROJECT_DIR$/yunso-log/yunso-log.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/pom.xml" afterPath="$PROJECT_DIR$/yunso-novel/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelLogDao.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelLogDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelChapterService.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelChapterService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java" afterPath="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/resources/generatorConfig.xml" afterPath="$PROJECT_DIR$/yunso-novel/src/main/resources/generatorConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelChapterMapper.xml" afterPath="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelChapterMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml" afterPath="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-novel/yunso-novel.iml" afterPath="$PROJECT_DIR$/yunso-novel/yunso-novel.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-spider/pom.xml" afterPath="$PROJECT_DIR$/yunso-spider/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/PageConsumer.java" afterPath="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/PageConsumer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-spider/yunso-spider.iml" afterPath="$PROJECT_DIR$/yunso-spider/yunso-spider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-utils/pom.xml" afterPath="$PROJECT_DIR$/yunso-utils/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso-utils/yunso-utils.iml" afterPath="$PROJECT_DIR$/yunso-utils/yunso-utils.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunso.iml" afterPath="$PROJECT_DIR$/yunso.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/yunso-admin/target/" />
@@ -19,117 +235,114 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NovelInfoMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml">
+    <leaf>
+      <file leaf-file-name="NovelChapterDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4796">
-              <caret line="218" column="13" lean-forward="false" selection-start-line="218" selection-start-column="13" selection-end-line="218" selection-end-column="13" />
-              <folding>
-                <marker date="1501062550619" expanded="true" signature="1621:1743" ph="select from novel_novelinfo" />
-                <marker date="1501062550619" expanded="true" signature="1829:1905" ph="delete from " />
-                <marker date="1501062550619" expanded="true" signature="2006:2684" ph="insert into novel_novelinfo... " />
-                <marker date="1501062550619" expanded="true" signature="5073:6445" ph="update novel... " />
-                <marker date="1501062550619" expanded="true" signature="6549:7256" ph="update novel... " />
-                <marker date="1501062550619" expanded="true" signature="7324:7392" ph="select from novel_novelinfo" />
-                <marker date="1501062550619" expanded="true" signature="8418:8845" ph="SELECT i.`au... novel_novelinfo" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NovelInfoDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelInfoDao.java">
+      <file leaf-file-name="task.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/task.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="INovelInfoService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelInfoService.java">
+      <file leaf-file-name="edit.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="44">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NovelInfoService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java">
+      <file leaf-file-name="BaseDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/dao/BaseDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding>
-                <element signature="e#1415#1416#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NovelRouter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java">
+      <file leaf-file-name="HttpClientDownloader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="126" column="76" lean-forward="true" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FQXSPageprocessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1491">
+              <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminRouter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/AdminRouter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexRouter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.jsp">
+      <file leaf-file-name="novelManager.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelManager.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="109" column="49" lean-forward="false" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="49" />
+            <state relative-caret-position="374">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="168" column="43" lean-forward="true" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NovelChapterService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/service/impl/BaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NovelInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <marker date="1501061346661" expanded="true" signature="3319:3326" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -140,9 +353,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Interface" />
-        <option value="Jsp File" />
         <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -155,7 +368,16 @@
       <find>state</find>
       <find>nOpInfo.</find>
       <find>novelNum</find>
+      <find>my</find>
+      <find>count</find>
+      <find>us.codecraft.webmagic.downloader.HttpClientDownloader</find>
     </findStrings>
+    <replaceStrings>
+      <replace>ncount</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -165,57 +387,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yunso-novel/pom.xml" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/resources/spring-context.xml" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/IpDescDao.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelCollectionDao.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelLogDao.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/commons/allScript.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/commons/header.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/editSpiderInfo.jsp" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/model/SpiderInfo.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/model/async/State.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/model/common/SpiderInfo.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/TaskManager.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/pom.xml" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/utils/HttpClientUtil.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/AsyncGather.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/model/async/Task.java" />
-        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/CommonSpider.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/SpiderRouter.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NOpInfo.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/test/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessorTest.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelChapter.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/UNovelChapter.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/RNovelChapter.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/BXPageprocessor.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelChapterMapper.xml" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java" />
-        <option value="$PROJECT_DIR$/yunso-utils/pom.xml" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/css/search-form.css" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/css/card.css" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/read.jsp" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.html" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelInfoService.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java" />
-        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelInfo.java" />
         <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelInfoDao.java" />
-        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelChapterService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/model/State.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/model/Task.java" />
         <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/chapter.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelindex.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/PageConsumer.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/MySpider.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/gather/async/commons/CommonSpider.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/NOpInfoService.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-log/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-base/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NOpInfoService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INOpInfoService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NOpInfoDao.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/BXPageprocessor.java" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/test/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessorTest.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/ISpiderService.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/CommonSiper.java" />
+        <option value="$PROJECT_DIR$/yunso-spider/src/main/java/me/ilvc/yunso/spider/me/CommonSider.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSider.java" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NOpInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NOpInfo.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/SpiderService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/SpiderRouter.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelCollectionService.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelLogDao.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelChapterMapper.xml" />
+        <option value="$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/task.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelManager.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp" />
+        <option value="$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/AdminRouter.java" />
       </list>
     </option>
   </component>
@@ -240,7 +462,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="yunso-utils" />
+          <option name="myItemId" value="yunso-base" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -250,7 +472,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="yunso-utils" />
+          <option name="myItemId" value="yunso-base" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -261,10 +483,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -300,7 +522,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -313,16 +535,858 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pageprocessor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ilvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23387097" />
@@ -331,18 +1395,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.ilvc.yunso.spider.me.model" />
       <recent name="me.ilvc.yunso.novel.pageprocessor" />
       <recent name="" />
       <recent name="me.ilvc.yunso.novel.model" />
       <recent name="me.ilvc.yunso.novel.service.impl" />
-      <recent name="me.ilvc.yunso.novel.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\WEB-INF\views\admin\novel" />
+      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\WEB-INF\views\admin\novel\spider" />
+      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\resource\plugin\SemanticUI" />
       <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\resource\plugin\AmazeUI\assets\js" />
       <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\WEB-INF\views\foreground\novel" />
-      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\resource\plugin" />
-      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\resource\js" />
-      <recent name="D:\MyWork\yunso\yunso-admin\src\main\webapp\resource" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -975,8 +2039,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Maven.yunso-utils [install]" />
-        <item index="1" class="java.lang.String" itemvalue="Maven.yunso-novel [mybatis-generator:generate]" />
+        <item index="0" class="java.lang.String" itemvalue="Maven.yunso-novel [mybatis-generator:generate]" />
+        <item index="1" class="java.lang.String" itemvalue="Maven.yunso-utils [install]" />
         <item index="2" class="java.lang.String" itemvalue="Application.FQXSPageprocessor" />
         <item index="3" class="java.lang.String" itemvalue="Application.BXPageprocessor" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.FQXSPageprocessorTest.test" />
@@ -985,6 +2049,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1006,6 +2073,15 @@
       <workItem from="1501160991901" duration="1432000" />
       <workItem from="1501348566975" duration="43000" />
       <workItem from="1501350292880" duration="930000" />
+      <workItem from="1501379875277" duration="9191000" />
+      <workItem from="1501394865426" duration="10000" />
+      <workItem from="1501397441505" duration="204000" />
+      <workItem from="1501434664432" duration="735000" />
+      <workItem from="1501481834472" duration="327000" />
+      <workItem from="1501566122886" duration="752000" />
+      <workItem from="1502244621827" duration="5160000" />
+      <workItem from="1502630002191" duration="92000" />
+      <workItem from="1502630107574" duration="27593000" />
     </task>
     <servers />
   </component>
@@ -1042,34 +2118,36 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116130000" />
+    <option name="totallyTimeSpent" value="160194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37486458" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53579175" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43661973" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43600866" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.121475056" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18634886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35140997" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05092091" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12481089" sideWeight="0.4903315" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28144988" sideWeight="0.4903315" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25746268" sideWeight="0.5096685" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1077,10 +2155,44 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5005417" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57204765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5715835" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37418655" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43661973" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2733189" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18980478" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05092091" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3065032" sideWeight="0.4903315" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25746268" sideWeight="0.5096685" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57204765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -1092,55 +2204,49 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/SpiderService.java</url>
+          <line>28</line>
           <properties />
-          <option name="timeStamp" value="23" />
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java</url>
-          <line>36</line>
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java</url>
+          <line>52</line>
           <properties />
-          <option name="timeStamp" value="24" />
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java</url>
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/SpiderService.java</url>
           <line>30</line>
           <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java</url>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java</url>
           <line>45</line>
-          <properties />
-          <option name="timeStamp" value="27" />
+          <properties class="me.ilvc.yunso.novel.spider.CommonSpider" method="start">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="28" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java</url>
+          <line>30</line>
+          <properties class="me.ilvc.yunso.novel.spider.CommonSpider" method="makeSpider">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="32" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java</url>
+          <line>51</line>
+          <properties class="me.ilvc.yunso.novel.spider.CommonSpider" method="start">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="67" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1149,383 +2255,479 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/resources/generatorConfig.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12-sources.jar!/org/slf4j/impl/Log4jLoggerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        <state relative-caret-position="252">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="186">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#1296#1297#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-utils/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/DefaultCategoryFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="286">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#1066#1067#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/ProvisionNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="264">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/scheduler/component/HashSetDuplicateRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/scheduler/DuplicateRemovedScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/scheduler/QueueScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#620#629#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12-sources.jar!/org/slf4j/impl/StaticLoggerBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="e#1984#1985#0" expanded="false" />
+            <element signature="e#2016#2017#0" expanded="false" />
+            <element signature="e#3086#3087#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6-sources.jar!/org/slf4j/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="276" column="0" lean-forward="false" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+          <folding>
+            <element signature="e#11087#11088#0" expanded="false" />
+            <element signature="e#11130#11131#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12-sources.jar!/org/slf4j/impl/Log4jLoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/spi/DefaultRepositorySelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#1134#1135#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/LogManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/CategoryKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#1161#1162#0" expanded="false" />
+            <element signature="e#1187#1188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="577" column="0" lean-forward="false" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
+          <folding>
+            <element signature="e#2496#2506#0" expanded="false" />
+            <element signature="e#16676#16677#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NOpInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/controller/novel/SpiderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="87" column="13" lean-forward="false" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/resources/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="89" column="79" lean-forward="true" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelCollectionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/IIpDescService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/dao/BaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelChapterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/service/IBaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="54" column="12" lean-forward="true" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.7.RELEASE/spring-core-4.1.7.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="361" column="0" lean-forward="false" selection-start-line="361" selection-start-column="0" selection-end-line="361" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar!/org/springframework/aop/support/AopUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        <state relative-caret-position="164">
+          <caret line="316" column="0" lean-forward="false" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="231" column="0" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.7.RELEASE/spring-context-4.1.7.RELEASE-sources.jar!/org/springframework/ui/ModelMap.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.7.RELEASE/spring-tx-4.1.7.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="164">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <element signature="e#3928#3929#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/ModelAndView.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.7.RELEASE/spring-tx-4.1.7.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="227" column="0" lean-forward="false" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="517" column="0" lean-forward="false" selection-start-line="517" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
+          <folding>
+            <element signature="e#24824#24825#0" expanded="false" />
+            <element signature="e#24872#24873#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar!/org/apache/commons/logging/impl/Log4JLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        <state relative-caret-position="155">
+          <caret line="332" column="0" lean-forward="false" selection-start-line="332" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
+          <folding>
+            <element signature="e#10787#10788#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        <state relative-caret-position="164">
+          <caret line="748" column="0" lean-forward="false" selection-start-line="748" selection-start-column="0" selection-end-line="748" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Hierarchy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="902" column="0" lean-forward="false" selection-start-line="902" selection-start-column="0" selection-end-line="902" selection-end-column="0" />
+        <state relative-caret-position="516">
+          <caret line="382" column="0" lean-forward="true" selection-start-line="382" selection-start-column="0" selection-end-line="382" selection-end-column="0" />
+          <folding>
+            <element signature="e#10006#10007#0" expanded="false" />
+            <element signature="e#10043#10044#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/spider/CommonSpider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="844" column="0" lean-forward="false" selection-start-line="844" selection-start-column="0" selection-end-line="844" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="337">
           <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1958">
-          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        <state relative-caret-position="-1606">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java">
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.7.RELEASE/spring-webmvc-4.1.7.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13002">
-          <caret line="704" column="0" lean-forward="false" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/css/search-form.css" />
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/js/jquery-1.11.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/css/default.css" />
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/css/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2046">
-          <caret line="93" column="1" lean-forward="false" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="132">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/SpiderRouter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/read.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="56" column="14" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="56" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/nindex.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/chapter.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelChapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/service/impl/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="565">
+          <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/SpiderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding>
-            <marker date="1501061346661" expanded="true" signature="3319:3326" ph="{...}" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <marker date="1502673580669" expanded="true" signature="1621:1743" ph="select from novel_novelinfo" />
+            <marker date="1502673580669" expanded="true" signature="1829:1905" ph="delete from " />
+            <marker date="1502673580669" expanded="true" signature="2006:2684" ph="insert into novel_novelinfo... " />
+            <marker date="1502673580669" expanded="true" signature="5073:6445" ph="update novel... " />
+            <marker date="1502673580669" expanded="true" signature="6549:7256" ph="update novel... " />
+            <marker date="1502673580669" expanded="true" signature="7324:7392" ph="select from novel_novelinfo" />
+            <marker date="1502673580669" expanded="true" signature="8419:8846" ph="SELECT i.`au... novel_novelinfo" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelInfoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="227">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelChapterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelCollectionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/novel/NovelRouter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/INovelInfoService.java">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelLogDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        <state relative-caret-position="110">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelInfoMapper.xml">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelCollectionDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4796">
-          <caret line="218" column="13" lean-forward="false" selection-start-line="218" selection-start-column="13" selection-end-line="218" selection-end-column="13" />
+        <state relative-caret-position="176">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/IpDescDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/model/NovelChapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NovelChapterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
-            <marker date="1501062550619" expanded="true" signature="1621:1743" ph="select from novel_novelinfo" />
-            <marker date="1501062550619" expanded="true" signature="1829:1905" ph="delete from " />
-            <marker date="1501062550619" expanded="true" signature="2006:2684" ph="insert into novel_novelinfo... " />
-            <marker date="1501062550619" expanded="true" signature="5073:6445" ph="update novel... " />
-            <marker date="1501062550619" expanded="true" signature="6549:7256" ph="update novel... " />
-            <marker date="1501062550619" expanded="true" signature="7324:7392" ph="select from novel_novelinfo" />
-            <marker date="1501062550619" expanded="true" signature="8418:8845" ph="SELECT i.`au... novel_novelinfo" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/resource/plugin/AmazeUI/assets/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/service/impl/NOpInfoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="403">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/foreground/novel/sidebar.jsp">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pipeline/NovelChapterPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="109" column="49" lean-forward="false" selection-start-line="109" selection-start-column="42" selection-end-line="109" selection-end-column="49" />
+        <state relative-caret-position="529">
+          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/resources/me/ilvc/yunso/novel/mapper/NovelChapterMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="168" column="43" lean-forward="true" selection-start-line="168" selection-start-column="43" selection-end-line="168" selection-end-column="43" />
+        <state relative-caret-position="132">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="n#sql#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" expanded="false" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" expanded="false" />
+            <marker date="1502688470440" expanded="true" signature="1112:1241" ph="select from novel_novelchapter" />
+            <marker date="1502688470440" expanded="true" signature="1327:1410" ph="delete from " />
+            <marker date="1502688470440" expanded="true" signature="1505:1912" ph="insert into novel_novelchapter... " />
+            <marker date="1502688470440" expanded="true" signature="3412:4203" ph="update novel... " />
+            <marker date="1502688470440" expanded="true" signature="4310:4732" ph="update novel... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.2/webmagic-core-0.7.2-sources.jar!/us/codecraft/webmagic/downloader/HttpClientDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="126" column="76" lean-forward="true" selection-start-line="126" selection-start-column="76" selection-end-line="126" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-base/src/main/java/me/ilvc/yunso/base/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/dao/NovelChapterDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/task.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/spider/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/novelManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-novel/src/main/java/me/ilvc/yunso/novel/pageprocessor/FQXSPageprocessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1491">
+          <caret line="53" column="49" lean-forward="true" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/IndexRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/java/me/ilvc/yunso/admin/router/AdminRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunso-admin/src/main/webapp/WEB-INF/views/admin/novel/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -1584,7 +2786,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>yunso-novel</last-edited>
+          <last-edited>yunso-spider</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -77,7 +77,7 @@ public class FQXSPageprocessor implements PageProcessor{
 			String[] nums = this.urlConvert(page.getRequest().getUrl());
 			chapter.setNovelnum(nums[1]);
 			chapter.setChapternum(Integer.parseInt(nums[0]));
-			if(chapter.getChapternum()>nOpInfo.getChapternum()){
+			if(chapter.getChapternum()>=nOpInfo.getChapternum()){
 				page.putField("chapter", chapter);
 				page.putField("type",nOpInfo.getType());
 			}else{

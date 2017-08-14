@@ -65,14 +65,14 @@
 					    <a href="javascript:;" data-url="http://ilvc.me" data-id="1" >博客</a>
 					  </li>
 					   <li class="layui-nav-item layui-nav-itemed">
-					    <a href="javascript:;" data-url="${pageContext.request.contextPath}/admin/main" data-id="2" >主页</a>
+					    <a href="javascript:;" data-url="${pageContext.request.contextPath}/admin/admin/main/" data-id="2" >主页</a>
 					  </li>
 					  <li class="layui-nav-item layui-nav-itemed">
 					    <a href="javascript:;">小说爬虫管理</a>
 					    <dl class="layui-nav-child">
 					      <dd><a href="javascript:;" data-url="${pageContext.request.contextPath}/admin/r/novel/spider/edit" data-id="4" >添加小说</a></dd>
-					      <dd><a href="javascript:;">小说管理</a></dd>
-					      <dd><a href="javascript:;">任务管理</a></dd>
+					      <dd><a href="javascript:;" data-url="${pageContext.request.contextPath}/admin/r/novel/spider/manager" data-id="8">小说管理</a></dd>
+					      <dd><a href="javascript:;" data-url="${pageContext.request.contextPath}/admin/r/novel/spider/task" data-id="7">任务管理</a></dd>
 					    </dl>
 					  </li>
                     <li class="layui-nav-item layui-nav-itemed">

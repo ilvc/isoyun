@@ -14,7 +14,7 @@
   <sql id="Base_Column_List">
     chapter_id, novelName, chapterName, chapterUrl, novelNum, chapterNum, content, addTime
   </sql>
-  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+  <select id="selectById" parameterType="java.lang.Integer" resultMap="BaseResultMap">
     select 
     <include refid="Base_Column_List" />
     from novel_novelchapter
@@ -24,7 +24,7 @@
     delete from novel_novelchapter
     where chapter_id = #{chapterId,jdbcType=INTEGER}
   </delete>
-  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
     insert into novel_novelchapter (chapter_id, novelName, chapterName, 
       chapterUrl, novelNum, chapterNum, 
       content, addTime)
@@ -32,7 +32,7 @@
       #{chapterurl,jdbcType=VARCHAR}, #{novelnum,jdbcType=VARCHAR}, #{chapternum,jdbcType=INTEGER},
       #{content,jdbcType=VARCHAR}, #{addtime,jdbcType=TIMESTAMP})
   </insert>
-  <insert id="insert" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
+  <insert id="insertSelective" parameterType="me.ilvc.yunso.novel.model.NovelChapter">
     insert into novel_novelchapter
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="chapterId != null">

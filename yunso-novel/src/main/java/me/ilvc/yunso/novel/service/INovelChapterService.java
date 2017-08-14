@@ -1,6 +1,7 @@
 package me.ilvc.yunso.novel.service;
 
 import me.ilvc.yunso.base.service.IBaseService;
+import me.ilvc.yunso.novel.model.NovelChapter;
 
 /**
  * @Author: iLvc
@@ -9,4 +10,5 @@ import me.ilvc.yunso.base.service.IBaseService;
  * @Modified By:
  */
 public interface INovelChapterService extends IBaseService {
+    NovelChapter selectById(Integer chapterId);
 }

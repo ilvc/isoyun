@@ -77,7 +77,7 @@
         </div>
         <div class=" layui-clear">
             <fieldset class="layui-elem-field layui-field-title"><legend><a name="fieldset">isoyun - 精品小说,看了还看</a></legend></fieldset>
-            <c:forEach items="${novelInfo_all}" var="novelInfo" end="8">
+            <c:forEach items="${novelInfo_all}" var="novelInfo" >
             <div class="card TopstoryItem">
                 <div class="card-head">
                     <span class="user-link"><a href="javascript:;">网友上传</a></span>
@@ -116,7 +116,8 @@
             </div>
           </c:forEach>
             </table>
-     </div>
+
+
     </div>
 
     <!-- 底部 -->
@@ -153,7 +154,7 @@
                 alert($(document.body).height());   //浏览器时下窗口文档body的高度
                 alert($(document.body).outerHeight(true)); //浏览器时下窗口文档body的总高度 包括border padding margin*/
                 if($(window).width()<=1366){
-                    $(".card").css("width","49%")
+                    $(".card").css("width","48%")
                 }
                 if($(window).width()>1366){
                     $(".card").css("width","31%")

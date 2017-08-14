@@ -1,6 +1,5 @@
 package me.ilvc.yunso.novel.dao;
 
-import me.ilvc.yunso.base.dao.BaseDao;
 import me.ilvc.yunso.novel.model.NovelLog;
 import org.springframework.stereotype.Repository;
 

@@ -7,8 +7,6 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
-import us.codecraft.webmagic.Spider;
-import us.codecraft.webmagic.pipeline.ConsolePipeline;
 
 /**
  * @Author: iLvc
@@ -25,11 +23,11 @@ public class FQXSPageprocessorTest {
     @Autowired
     private NovelChapterPipeline novelChapterPipeline;
 
-    @Test
+   @Test
     public void test(){
-        NOpInfo info = new NOpInfo("11778262","http://www.xfqxsw.com/html/64181/11778262.html","first","novelChapter");
+        NOpInfo info = new NOpInfo("frist","novelChapter","http://www.xfqxsw.com/html/64181/11778262.html");
        // Spider.create(new FQXSPageprocessor("69999",null,"first","novelChapter")).addUrl("http://www.xfqxsw.com/html/69999/16998140.html").addPipeline(novelChapterPipeline).thread(20).run();
-        Spider.create(new FQXSPageprocessor(info)).addUrl(info.getStartUrl()).addPipeline(new ConsolePipeline()).thread(5).run();
+       // Spider.create(new FQXSPageprocessor(info)).addUrl(info.getStartUrl()).addPipeline(new ConsolePipeline()).thread(5).run();
     }
 
 }

@@ -200,6 +200,7 @@
     select <include refid="Base_Column_List" />
     from novel_novelinfo
   </select>
+
   <resultMap id="novelChapters" type="me.ilvc.yunso.novel.model.NovelInfo">
     <id column="novel_novel_id" jdbcType="INTEGER" property="novelId" />
     <result column="novel_name" jdbcType="VARCHAR" property="novelName" />

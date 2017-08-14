@@ -1,7 +1,7 @@
 package me.ilvc.yunso.spider.gather.async.commons;
 
-import com.gs.spider.model.async.Task;
-import com.gs.spider.model.commons.SpiderInfo;
+import me.ilvc.yunso.spider.model.async.Task;
+import me.ilvc.yunso.spider.model.common.SpiderInfo;
 import us.codecraft.webmagic.Page;
 
 /**
